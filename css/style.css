@@ -527,6 +527,19 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social .social-google a:hover{background: #333;}
 .company-social .social-vimeo a:hover{background: #71c6f3;}
 
+/* Example section */
+
+#example .carousel {
+    margin: 0 auto;
+    width:  50%;
+    height: 50%;
+}
+
+#example video {
+    margin: 0 auto;
+    width:  80%;
+    height: 80%;
+}
 
 
 /* ===========================
