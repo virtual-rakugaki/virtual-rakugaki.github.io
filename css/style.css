@@ -384,6 +384,10 @@ hr {
 	margin-bottom: 30px;
 }
 
+.avatar .img-responsive{
+    margin: 0 auto; /* センタリング */
+}
+
 .team-social {
 	margin-left: 0;
 	padding-left: 0;
