@@ -437,6 +437,21 @@ hr {
 .team-social .social-vimeo a:hover{background: #71c6f3;}
 
 
+.youtube {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  margin: 0 auto;
+}
+.youtube iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
 /* ===========================
 --- Services
 ============================ */
@@ -448,6 +463,19 @@ hr {
 .example-img {
 	margin-bottom: 20px;
 }	
+
+
+/* ===========================
+--- Download
+============================ */
+
+.download-app .img-responsive {
+    margin: 0 auto; /* センタリング */
+}
+
+.qr-code {
+    max-width: 25%
+}
 
 
 /* ===========================
